@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Multiple-devices-lab</string>
+    <string name="question">Want to know what will happen in three months?</string>
+    <string name="click_me">Click Me:)</string>
+    <string name="awesome">You will be an awesome Android developer! Just keep working hard!</string>
+</resources>
